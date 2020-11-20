@@ -1,4 +1,4 @@
-# teclado.s
+
 @ greet.s - un pequeño saludo asm.
 @ programa corto que obtiene la entrada del teclado y luego lo imprime de nuevo en la pantalla.
 
